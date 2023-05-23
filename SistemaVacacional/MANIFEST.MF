@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: MrlnTrrzs13
+Main-Class: Bienvenida
+X-COMMENT: Curso java
